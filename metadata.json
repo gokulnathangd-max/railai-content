@@ -1,0 +1,8 @@
+{
+  "name": "National Rail Block Planning & Traffic Interlocking Portal",
+  "description": "Official Ministry of Railways automated spatio-temporal integrated maintenance block planning system for High-Density Corridors (HDC), featuring 1D linear graph clustering, stochastic overrun risk assessment, MILP corridor flow routing, and Electronic Interlocking authorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
